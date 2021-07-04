@@ -1,0 +1,101 @@
+body{
+    margin :0 ;
+    padding-left: 10px;
+    font-family:'PT Serif', serif;
+    
+
+}
+h1{
+    
+    font-family : 'Rubik', sans-serif; 
+    font-size: 40px;
+    margin-left:80px ;
+    padding-left: 10px;
+}
+h2{
+    font-size: 30px;
+    padding-left: 80px;
+}
+.color-name{
+    color: orange;
+}
+
+.top-banner{
+    display: flex;
+    background-image: url("top.jpg");
+    background-repeat: no-repeat;
+    margin:20px;
+    
+}
+.half{
+    
+    width: 50%;
+    margin-right: 50px;
+    padding-left: 2%;
+    padding-bottom: 100px;
+}
+p{
+    
+    font-size: large;
+}
+.half-img{
+    height: 10px;
+        width: 10px;
+
+}
+
+.link-button{
+    color: seashell;
+    text-decoration: none;
+    background-image: linear-gradient(orange, purple);
+    padding: 10px 20px;
+    border-radius:10px ;
+}
+.dream-big{
+    display: flex;
+    padding: 10px 20px;
+}
+.re-button{
+    color: seashell;
+    text-decoration: none;
+    background-image: linear-gradient(red, blue);
+    padding: 10px 20px;
+    border-radius:10px ;
+}
+.dream-big{
+    background-image: url("top.jpg");
+    background-repeat: no-repeat;
+    background-position:center ;
+    margin-right: 10px;
+    
+}
+.expericence{
+    display: flex;
+}
+.bottom-{
+    background-image: url("bottom-side.jpg") ;
+    background-repeat: no-repeat;
+    
+    
+}
+  
+.flexible{
+    display: flex;
+}
+.box-co{
+    height: 100%;
+width: 100%;
+margin-bottom: 20%;
+margin-left:50px ;
+margin-right: 50px ;
+box-shadow: 10px 10px 10px  5px orange;
+border-radius: 5px;
+}
+#weh{
+border-image-slice: 1;
+border-image: linear-gradient(red, blue);
+border-left: 10px solid;
+}
+footer{
+    text-align: center;
+}
